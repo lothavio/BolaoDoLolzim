@@ -1,1 +1,5 @@
 # BolaoDoLolzim
+
+- Protótipos
+- API
+- FRONT
